@@ -1,0 +1,4 @@
+*.log
+node_modules/
+#文章发布目录
+public/

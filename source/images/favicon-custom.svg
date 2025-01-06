@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="_图层_1"
+   data-name="图层_1"
+   viewBox="0 0 660.47227 136.17973"
+   version="1.1"
+   sodipodi:docname="旗帜200cm-120cm.svg"
+   width="660.47229"
+   height="136.17973"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview35"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.6764157"
+     inkscape:cx="382.06514"
+     inkscape:cy="170.30382"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g33" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #040000;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: #231815;
+        font-family: FZLTCHJW--GB1-0, FZLanTingHeiS-B-GB;
+        font-size: 47.41px;
+        letter-spacing: .1em;
+      }
+
+      .cls-4 {
+        stroke: #e7251f;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-6 {
+        fill: #e60012;
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-size: 26.65px;
+        font-weight: 300;
+      }
+
+      .cls-7 {
+        fill: #cc1329;
+      }
+    </style>
+  </defs>
+  <g
+     id="g35"
+     transform="translate(-12.828714,4.2499454)">
+    <g
+       id="g34"
+       transform="matrix(4.2740715,0,0,4.2783456,-1268.9636,-875.70074)"
+       inkscape:transform-center-x="1.9121343"
+       inkscape:transform-center-y="5.7364589">
+      <g
+         id="g33"
+         transform="translate(0,-40.015137)">
+        <polygon
+           class="cls-1"
+           points="362.59,274.23 356.37,274.23 356.37,260.63 342.51,260.63 342.51,274.23 336.29,274.23 336.29,243.26 342.51,243.26 342.51,255.67 356.37,255.67 356.37,243.26 362.59,243.26 "
+           id="polygon30"
+           transform="translate(-1.6404046,0.89387225)" />
+        <path
+           class="cls-1"
+           d="m 371.1696,274.96387 c -1.75,-0.39 -3.27,-0.91 -4.57,-1.55 l 1.84,-4.79 c 1.17,0.59 2.49,1.07 3.97,1.44 1.48,0.38 2.79,0.57 3.95,0.57 1.55,0 2.74,-0.34 3.56,-1.03 0.82,-0.68 1.23,-1.58 1.23,-2.7 0,-0.87 -0.27,-1.62 -0.81,-2.26 -0.54,-0.63 -1.24,-1.18 -2.09,-1.65 -0.85,-0.47 -2.06,-1.04 -3.63,-1.72 -1.63,-0.71 -2.97,-1.45 -4.04,-2.21 -1.07,-0.76 -1.9,-1.68 -2.5,-2.74 -0.6,-1.06 -0.9,-2.33 -0.9,-3.8 0,-1.84 0.45,-3.42 1.35,-4.75 0.9,-1.33 2.15,-2.33 3.74,-3.03 1.6,-0.69 3.43,-1.04 5.5,-1.04 1.53,0 3.09,0.17 4.68,0.52 1.6,0.35 2.88,0.79 3.85,1.32 l -1.2,4.98 c -2.57,-1.25 -5,-1.88 -7.29,-1.88 -1.35,0 -2.44,0.25 -3.25,0.75 -0.81,0.5 -1.22,1.28 -1.22,2.35 0,0.7 0.21,1.3 0.64,1.81 0.43,0.51 1.07,1 1.93,1.47 0.86,0.47 2.2,1.12 4.04,1.95 1.7,0.77 3.08,1.55 4.14,2.35 1.06,0.8 1.87,1.74 2.42,2.81 0.55,1.08 0.82,2.36 0.82,3.86 0,2.05 -0.45,3.79 -1.35,5.22 -0.9,1.43 -2.17,2.5 -3.82,3.23 -1.65,0.73 -3.59,1.09 -5.83,1.09 -1.7,0 -3.42,-0.2 -5.17,-0.59"
+           id="path31" />
+        <path
+           class="cls-1"
+           d="m 393.0496,244.17387 h 10.71 c 3.34,0 6.19,0.55 8.56,1.65 2.37,1.1 4.19,2.72 5.45,4.88 1.26,2.16 1.89,4.79 1.89,7.9 0,3.11 -0.66,6.02 -1.98,8.52 -1.32,2.5 -3.22,4.46 -5.7,5.88 -2.48,1.42 -5.39,2.13 -8.74,2.13 h -10.2 v -30.95 z m 9.85,26.15 c 2.24,0 4.13,-0.5 5.68,-1.49 1.55,-0.99 2.72,-2.35 3.49,-4.08 0.77,-1.73 1.15,-3.71 1.15,-5.95 0,-3.23 -0.83,-5.68 -2.49,-7.33 -1.66,-1.65 -4.13,-2.48 -7.41,-2.48 h -4.06 v 21.33 h 3.63 z"
+           id="path32" />
+        <polygon
+           class="cls-7"
+           points="435.11,266.15 451.01,259.15 435.11,252.18 435.11,247.64 456.07,257 456.07,261.27 435.11,270.68 "
+           id="polygon32"
+           transform="translate(-1.6404046,0.89387225)" />
+        <polygon
+           class="cls-7"
+           points="322.5,270.68 301.54,261.27 301.54,257 322.5,247.64 322.5,252.18 306.6,259.15 322.5,266.15 "
+           id="polygon33"
+           transform="translate(-1.6404046,0.89387225)" />
+      </g>
+    </g>
+  </g>
+</svg>
