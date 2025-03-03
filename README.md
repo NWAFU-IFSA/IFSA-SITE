@@ -31,4 +31,8 @@ $ npm install -g hexo-cli
 
 ## 构建方式
 
-参考 https://hexo.io/docs/commands 中的步骤进行。
+参考 <https://hexo.io/docs/commands> 中的步骤进行。
+
+## CI/CD化
+
+参考[博客文章](https://blog.zyzh20021020.cn/2025/01/30/Hexo%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA%E4%B8%8E%E8%BF%81%E7%A7%BB%E8%87%B3%E8%85%BE%E8%AE%AF%E4%BA%91COS/)
